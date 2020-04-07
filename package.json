@@ -1,0 +1,27 @@
+{
+  "name": "mrnotify-sdk",
+  "version": "1.0.0",
+  "description": "Package to send SMS via MrNotify [www.mrnotify.lk]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrnotify/mrnotify-sdk-nodejs.git"
+  },
+  "author": "MrNotify",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrnotify/mrnotify-sdk-nodejs/issues"
+  },
+  "homepage": "https://github.com/mrnotify/mrnotify-sdk-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {}
+}
